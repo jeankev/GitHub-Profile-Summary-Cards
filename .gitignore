@@ -1,0 +1,11 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.attach_pid*
+*.DS_store
+/out/
+application/out/*
+
+/target/*
